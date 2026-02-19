@@ -1,0 +1,21 @@
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 16px;
+  font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+.brand-name {
+  display: flex;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.brand-logo {
+  height: 40px;
+  cursor: pointer;
+}
+
+.content {
+  padding-top: 16px;
+}
